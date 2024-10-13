@@ -10,9 +10,9 @@
 - 문제 출처: [leetcode](https://leetcode.com/problemset/) 또는 도서 "프로그래밍 대회에서 배우는 알고리즘 문제해결 전략" 
 
 ## 형식
-1. 각 문제별로 패키지를 분리한다.
+1. 문제 출처 별로, 유형별로, 문제별로 패키지를 분리
 2. 패키지 내부에는 `README.md` 와 `Solution.java` 또는 `Testcase.java` 가 존재
 
 - `README.md` : 문제소개 또는 해결에 사용된 전략을 간단하게 정리했다. 없는 패키지도 존재하는데 가능하면 문서화를 하고자 노력했다.
 - `Solution.java` : 문제를 풀이하는 메소드가 모여있는 자바 클래스
-- `Testcase.java` : Solution 을 구동하는 자바 클래스.
+- `Testcase.java` : Solution 을 구동하는 자바 클래스. 때로는 그냥 Solution.java 안에서 구동하기도 한다.
