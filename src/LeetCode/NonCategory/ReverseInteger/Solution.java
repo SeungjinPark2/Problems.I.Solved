@@ -1,4 +1,4 @@
-package LeetCode.ReverseInteger;
+package LeetCode.NonCategory.ReverseInteger;
 
 public class Solution {
     public int reverse(int x) {

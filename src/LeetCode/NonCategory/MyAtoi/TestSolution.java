@@ -1,4 +1,4 @@
-package LeetCode.MyAtoi;
+package LeetCode.NonCategory.MyAtoi;
 
 public class TestSolution {
     public static void main(String[] args) {

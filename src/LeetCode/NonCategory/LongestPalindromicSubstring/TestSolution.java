@@ -1,4 +1,4 @@
-package LeetCode.LongestPalindromicSubstring;
+package LeetCode.NonCategory.LongestPalindromicSubstring;
 
 public class TestSolution {
     public static void main(String[] args) {

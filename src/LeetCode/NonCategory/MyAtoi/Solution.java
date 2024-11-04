@@ -1,4 +1,4 @@
-package LeetCode.MyAtoi;
+package LeetCode.NonCategory.MyAtoi;
 
 public class Solution {
     public int myAtoi(String s) {

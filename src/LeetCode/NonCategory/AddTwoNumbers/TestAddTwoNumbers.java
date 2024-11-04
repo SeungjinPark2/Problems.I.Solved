@@ -1,4 +1,4 @@
-package LeetCode.AddTwoNumbers;
+package LeetCode.NonCategory.AddTwoNumbers;
 
 import java.math.BigInteger;
 
@@ -15,7 +15,7 @@ public class TestAddTwoNumbers {
         System.out.println(AddTwoNumbers.parseList(l1));
         System.out.println(AddTwoNumbers.parseList(l2));
 
-        // test LeetCode.AddTwoNumbers
+        // test LeetCode.NonCategory.AddTwoNumbers
         ListNode answer = new AddTwoNumbers().addTwoNumbers(l1, l2);
         System.out.println(AddTwoNumbers.parseList(answer));
     }

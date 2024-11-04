@@ -1,4 +1,4 @@
-# LeetCode.RegularExpressionMatching
+# LeetCode.DP.RegularExpressionMatching
 ## 문제 해설
 패턴매칭할 string s 와 패턴 p 를 받아 매칭여부에 따라 bool 을 반환하는 함수 작성. \
 패턴 p 는 알파벳 또는 `.` 과 `*` 로 구성된다.

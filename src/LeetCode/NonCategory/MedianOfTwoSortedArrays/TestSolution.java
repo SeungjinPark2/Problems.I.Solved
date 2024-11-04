@@ -1,4 +1,4 @@
-package LeetCode.MedianOfTwoSortedArrays;
+package LeetCode.NonCategory.MedianOfTwoSortedArrays;
 
 public class TestSolution {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package LeetCode.LongestSubstringWithoutRepeatingCharacters;
+package LeetCode.NonCategory.LongestSubstringWithoutRepeatingCharacters;
 
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
