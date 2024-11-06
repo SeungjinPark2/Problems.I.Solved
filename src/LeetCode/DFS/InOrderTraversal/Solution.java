@@ -1,5 +1,7 @@
 package LeetCode.DFS.InOrderTraversal;
 
+import LeetCode.TreeNode;
+
 import java.util.ArrayList;
 import java.util.List;
 
