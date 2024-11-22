@@ -38,5 +38,5 @@
 1. depth1: 문제의 출처 별로 구분했다. 즉 책이나 강의자료 또는 leetcode 에 따라 구분.
 2. depth2: 문제의 부류에 따라 구분했다. dfs, bfs 등 최대한 분류해보고 잘 모르겠는 부류는 none.category 에 분류한다.
 3. depth3: 문제에 대한 설명 `README.md`, 스스로 작성한 답안 `Solution.java`, 문제의 답안 `BestPractice.java`
-   3. `Solution.java` 를 고치지 않는 이유는 스스로 작성한 답안과 실제 답안을 효율적으로 구분하기 위함.
-   4. `README.md` 나 `BestPractice.java` 파일은 optional 하다.
+   - `Solution.java` 를 고치지 않는 이유는 스스로 작성한 답안과 실제 답안을 효율적으로 구분하기 위함.
+   - `README.md` 나 `BestPractice.java` 파일은 optional 하다.
